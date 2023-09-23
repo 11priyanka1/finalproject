@@ -29,7 +29,8 @@ The contact Page:
 
 
 #Azure services
-![image](https://github.com/11priyanka1/finalproject/assets/139111395/e4ddcc0f-55e8-409b-9be8-02b8e98bf3d0)
+<img width="734" alt="image" src="https://github.com/11priyanka1/finalproject/assets/139111395/2d5c04a4-8193-4cf8-b1e8-18b7c4bb8695">
+
 
 1)Azure static app
 <img width="950" alt="image" src="https://github.com/11priyanka1/finalproject/assets/139111395/fc79a105-4371-4234-941a-23ddbfc785bc">
